@@ -1,0 +1,4 @@
+"id_client","nom","id_contacte","recomanat_per_un_client","id_client_recomanador"
+2001,"Alba",4009,0,null
+2002,"Bernat",4010,0,null
+2003,"Carles",4011,1,2002

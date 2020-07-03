@@ -1,0 +1,11 @@
+"id_ullera","preu","id_montura",id_empleat_venedor","id_client"
+601,null,201,1001,2001
+602,null,202,1002,2001
+603,null,203,1003,2002
+604,null,204,1001,2003
+605,null,201,null,null
+606,null,201,null,null
+607,null,202,null,null
+608,null,203,null,null
+609,null,204,null,null
+#el preu es calcula = montura.preu + vidre_dret.preu + vidre_esq.preu
